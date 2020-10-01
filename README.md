@@ -1,4 +1,12 @@
 # Responsive-Website-Template
+
+# Porfolio Design
+# How to Download this Codes 
+you can type following command in terminal and get this code.
+```
+git clone https://github.com/AhmadSabbirChowdhury/Responsive-Website-Template.git
+```
+
 # Check the full website here: https://ahmadsabbirchowdhury.github.io/Responsive-Website-Template/index.html
 #
 Simple front end responsive website using HTML5 and CSS3.
